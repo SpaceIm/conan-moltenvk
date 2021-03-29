@@ -4,7 +4,7 @@
 
 | macOS |
 |:-----:|
-|[![Build Status](https://travis-ci.com/SpaceIm/conan-moltenvk.svg?branch=testing%2F1.1.2)](https://travis-ci.com/SpaceIm/conan-moltenvk)|
+|[![Build status](https://github.com/SpaceIm/conan-moltenvk/workflows/.github/workflows/macos.yml/badge.svg?branch=testing%2F1.1.2)](https://github.com/SpaceIm/conan-moltenvk/actions/workflows/macos.yml?query=branch%3Atesting%2F1.1.2)|
 
 ## Description
 
